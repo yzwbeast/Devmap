@@ -1,9 +1,9 @@
 ---
 title: Python
 markmap:
-  colorFreezeLevel: 3
+  colorFreezeLevel: 4
   maxWidth: 300
-  initialExpandLevel: 2
+  initialExpandLevel: 3
 ---
 
 # Developer Roadmaps<br />By: [yzwbeast](https://github.com/yzwbeast)
@@ -15,6 +15,13 @@ markmap:
 ### Frontend
 
 #### Internet
+
+- How does the internet work?
+- What is HTTP?
+- What is Domain Name?
+- What is hosting?
+- DNS and how it works?
+- Browsers and how they work?
 
 #### HTML
 
