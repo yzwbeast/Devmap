@@ -1,9 +1,9 @@
 ---
 title: Python
 markmap:
-  colorFreezeLevel: 3
+  colorFreezeLevel: 4
   maxWidth: 300
-  initialExpandLevel: 2
+  initialExpandLevel: 3
 ---
 
 # Developer Roadmaps<br />By: [yzwbeast](https://pylove.us.kg/)
